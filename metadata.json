@@ -1,0 +1,5 @@
+{
+  "name": "Verificador de Documentación de Contratistas PNN",
+  "description": "Aplicativo para el seguimiento y verificación de la lista de chequeo de documentos para la suscripción de contratos de prestación de servicios.",
+  "requestFramePermissions": []
+}
